@@ -18,7 +18,7 @@ This repository contains a collection of artificial intelligence and machine lea
 - Implements logistic regression to predict house affordability.
 - Wrapped with a Gradio interface for simple user interaction.
 
-### 4. **Hierarchical_Movie_Recommendation_Gradio**
+### 4. **Movie_Recommendation_Hierarchical_Gradio**
 - Creates a movie recommendation system using hierarchical clustering.
 - Offers an interactive Gradio-based frontend.
 
@@ -53,5 +53,9 @@ This repository contains a collection of artificial intelligence and machine lea
 ### 12. **Translator**
 - Translates text from one language to another.
 - Likely uses an external translation API or sequence-to-sequence model.
+
+### 13. **Music_Recommender_KNN**
+- Recommends music to users using K-Nearest Neighbors based on similarity in preferences or features.
+- Simple content-based recommendation engine that analyzes user or song feature vectors.
 
 ---
