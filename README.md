@@ -62,5 +62,3 @@ This repository contains a collection of artificial intelligence and machine lea
 - Predicts a numeric output from three inputs using a simple ANN built with TensorFlow.
 - Interactive Gradio interface for real-time predictions.
 
-### 15. **
----
