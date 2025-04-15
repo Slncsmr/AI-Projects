@@ -14,7 +14,7 @@ This repository contains a collection of artificial intelligence and machine lea
 - Builds a Convolutional Neural Network for image classification.
 - Focuses on deep learning techniques for computer vision tasks.
 
-### 3. **Gradio_Logistic_Reg (House Prediction)**
+### 3. **House_Predication_Gradio_Logistic_Reg_dataset**
 - Implements logistic regression to predict house affordability.
 - Wrapped with a Gradio interface for simple user interaction.
 
@@ -34,7 +34,7 @@ This repository contains a collection of artificial intelligence and machine lea
 - Demonstrates use of the LangChain framework for chaining LLM-based tools.
 - Useful for building advanced NLP workflows and agents.
 
-### 8. **Linear_Regression_Housing**
+### 8. **House_Predication_Gradio_Logistic_Reg_synthetic_data**
 - Predicts housing prices using simple linear regression.
 - A good starting point for understanding regression algorithms.
 
@@ -46,7 +46,7 @@ This repository contains a collection of artificial intelligence and machine lea
 - Implements an LSTM-based model to forecast stock prices.
 - Focuses on time-series prediction using deep learning.
 
-### 11. **Titanic_Survival_Decision_Tree**
+### 11. **Titanic_Survival_Decision_Tree_DataSet**
 - Uses a decision tree to predict survival outcomes for Titanic passengers.
 - A classic classification problem with clean visualization.
 
