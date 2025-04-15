@@ -58,4 +58,9 @@ This repository contains a collection of artificial intelligence and machine lea
 - Recommends music to users using K-Nearest Neighbors based on similarity in preferences or features.
 - Simple content-based recommendation engine that analyzes user or song feature vectors.
 
+### 14. **ANN**
+- Predicts a numeric output from three inputs using a simple ANN built with TensorFlow.
+- Interactive Gradio interface for real-time predictions.
+
+### 15. **
 ---
